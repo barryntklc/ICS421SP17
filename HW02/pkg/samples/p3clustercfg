@@ -1,0 +1,16 @@
+catalog.driver=com.ibm.db2.jcc.DB2Driver
+catalog.hostname=jdbc:mysql://192.168.56.20:3306/DDLCluster
+catalog.username=ddluser
+catalog.passwd=passwerd
+
+numnodes=2
+
+node1.driver=com.ibm.db2.jcc.DB2Driver
+node1.hostname=jdbc:mysql://192.168.56.21:3306/DDLCluster
+node1.username=ddluser
+node1.passwd=passwerd
+
+node2.driver=com.ibm.db2.jcc.DB2Driver
+node2.hostname=jdbc:mysql://192.168.56.22:3306/DDLCluster
+node2.username=ddluser
+node2.passwd=passwerd

@@ -1,0 +1,9 @@
+./src/io/FileIO.java
+./src/io/Util.java
+./src/SQLProc/DatabaseOps.java
+./src/SQLProc/QuerySession.java
+./src/SQLProc/QueryThread.java
+./src/SQLProc/SQLProc.java
+./src/structures/CFGSettings.java
+./src/structures/Conn.java
+./src/structures/ConnList.java

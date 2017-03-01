@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: SQLProc.SQLProc
+Class-Path: mysql-connector-java.jar opencsv-3.9.jar
